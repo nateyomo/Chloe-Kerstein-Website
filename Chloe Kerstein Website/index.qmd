@@ -1,7 +1,10 @@
 ---
-title: "Chloe Kerstein"
+title: "Chloë Kerstein"
 ---
 
-This is a Quarto website.
+# Current Research
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Currently working as a Research Assistant for Dr. Gombatto
+
+
+
